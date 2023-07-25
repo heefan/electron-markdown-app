@@ -35,11 +35,9 @@
     "allowToChangeInstallationDirectory": true,
     "deleteAppDataOnUninstall": false
   },
-  {
-   "publish": {
+  "publish": {
       "provider": "generic",
       "channel": "latest",
       "url": "https://foo.com/"
    }
-}
 }
